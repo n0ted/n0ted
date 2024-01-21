@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Portfolio Website**
 
-- 🌱 I’m currently learning **Machine Learning | React | .NET**
+- 🌱 I’m currently learning **React.**
 
 - 👯 I’m looking to collaborate on **AWS**
 
