@@ -1,6 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tilt+Warp&size=30&pause=1000&color=9018F7&vCenter=true&width=500&lines=Heyy+%F0%9F%91%8B%2C+Gaurav+this+side!!)](https://git.io/typing-svg)
-<h3 align="center">I'm an avid learner majoring in Computer Science. I am always looking to learn new things. You can find me building projects that allow me to explore my interests and grow as a developer.</h3>
+<h3 align="center">I thrive on turning ideas into action, bringing a unique blend of creativity and problem solving to every opportunity
+Let's Elevate Together: Connect with Me</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n0ted&label=Profile%20views&color=0e75b6&style=flat" alt="n0ted" /> </p>
