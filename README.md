@@ -47,10 +47,6 @@ metadata:
 </div>
 
 ###
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=n0ted&show_icons=true&locale=en&layout=compact" alt="n0ted" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=n0ted&show_icons=true&locale=en" alt="n0ted" /></p>
 <img src="https://github.com/n0ted/Actions_Test/blob/output/snake.svg" alt="Snake animation" />
 
 ###
