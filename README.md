@@ -19,6 +19,8 @@ Let's Elevate Together: Connect with Me</h3>
 
 - 📫 How to reach me **bhadauriagaruav22@gmail.com**
 
+- 📄 Know about my experiences **<a href="https://github.com/n0ted/Resume/blob/main/Gaurav_Bhadauria_Resume.pdf target="blank"CV **
+
 - ⚡ Fun fact **I am obsessed with custom keyboards.**
 
 <h3 align="left">Connect with me:</h3>
