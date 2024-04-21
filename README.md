@@ -7,13 +7,13 @@ Let's Elevate Together: Connect with Me</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n0ted&label=Profile%20views&color=0e75b6&style=flat" alt="n0ted" /> </p>
 
 
-- 🔭 I’m currently working on **Portfolio Website**
+- 🔭 I’m currently working on **Web Security Chrome Extension**
 
 - 🌱 I’m currently learning **React.**
 
-- 👯 I’m looking to collaborate on **AWS**
+- 👯 I’m looking to collaborate on **OWASP PROD**
 
-- 💬 Ask me about **IoT | Tech Stack**
+- 💬 Ask me about **MACHINE LEARNING | AI**
 
 - 📫 How to reach me **bhadauriagaruav22@gmail.com**
 
