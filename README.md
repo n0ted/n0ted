@@ -15,6 +15,8 @@ Let's Elevate Together: Connect with Me</h3>
 
 - 💬 Ask me about **MACHINE LEARNING | AI**
 
+- 👨‍💻 All of my projects are available at **https://thegauravfolio.online**
+
 - 📫 How to reach me **bhadauriagaruav22@gmail.com**
 
 - ⚡ Fun fact **I am obsessed with custom keyboards.**
