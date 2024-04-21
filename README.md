@@ -4,7 +4,7 @@
 Let's Elevate Together: Connect with Me</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=n0ted&label=Profile%20views&color=0e75b6&style=plastic" alt="n0ted" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=n0ted&label=Profile%20views&color=0e75b6&color=80ff00&style=plastic" alt="n0ted" /> </p>
 
 
 - 🔭 I’m currently working on **Web Security Chrome Extension**
