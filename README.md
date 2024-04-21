@@ -5,7 +5,11 @@ Let's Elevate Together: Connect with Me</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n0ted&label=Profile%20views&color=0e75b6&style=flat" alt="n0ted" /> </p>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/n0ted/count.svg?"  />
+</div>
 
+###
 
 - 🔭 I’m currently working on **Web Security Chrome Extension**
 
